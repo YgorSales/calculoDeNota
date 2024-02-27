@@ -1,0 +1,50 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Rubik+Burned&display=swap');
+
+body {
+
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body h1 {
+    font-family: "Lemon", serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+main {
+
+    font-family: "Lemon", serif, Arial, Helvetica, sans-serif;
+
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    border-radius: 86px;
+
+    min-width: 500px;
+    max-width: 1000px;
+
+}
+
+#nota1 {
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 5px
+}
+
+#nota2 {
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 5px
+}
+
+#azul {
+    color: cyan;
+}
+
+#vermelho {
+    color: red;
+}
