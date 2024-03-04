@@ -1,4 +1,4 @@
 # calculoDeNota
  calculo de nota
 
- Estudando HTML, CSS e JAVASCRIP
+ Estudando HTML, CSS e JAVASCRIPT
